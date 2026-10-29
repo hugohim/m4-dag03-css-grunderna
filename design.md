@@ -17,7 +17,7 @@ Så här ska sidan se ut. Följ värdena exakt.
 | Hero-bakgrund | `#f3e3cf` | `#hero` |
 
 ## Avstånd (8-punktsskala)
-8, 16, 24, 32, 48 px.
+8, 16, 24, 32, 48 px.1
 
 ## Sidhuvud och sidfot
 Padding 16 px uppifrån/ned, 24 px åt sidorna. Vit text.
